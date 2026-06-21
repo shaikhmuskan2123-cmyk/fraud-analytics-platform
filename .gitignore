@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+models/*.pkl
+
+database/fraud.db
+
+.ipynb_checkpoints/
+
+.vscode/
+
+reports/*.pdf
